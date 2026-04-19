@@ -1,13 +1,6 @@
-# AI DevOps Practice Series
+# AI DevOps Practise Series
 
-Welcome to the AI DevOps Practice Series repository! This project is dedicated to exploring and implementing modern DevOps practices using AI-powered tools and automation.
+This repository contains notes and code for the AI DevOps YouTube series.
 
-## Overview
-This repository serves as a hands-on guide for integrating AI into DevOps workflows, including:
-- Automated CI/CD pipelines
-- Infrastructure as Code (IaC) generation
-- Intelligent monitoring and alerting
-- AI-assisted code reviews
-
-## Getting Started
-Stay tuned for upcoming tutorials and code examples!
+## Days
+- [Day 2](day2.md)
